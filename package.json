@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/9368743625/KapdaCart.com/issues"
   },
-  "homepage": "https://github.com/9368743625/KapdaCart.com#readme"
+  "homepage": "https://github.com/9368743625/KapdaCart.com#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "express-async-handler": "^1.2.0"
+  }
 }
